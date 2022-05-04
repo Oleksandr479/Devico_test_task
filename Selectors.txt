@@ -1,0 +1,2 @@
+CSS - div[class='home-top-section__left'] div[class='button']
+Xpath - //div[@class='home-top-section__left']//child::div
